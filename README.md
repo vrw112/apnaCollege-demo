@@ -1,4 +1,4 @@
 # apnaCollege-demo
 My first project
 <br>
-Author = Vaishnavi
+Author = Vaishnavi Ware
